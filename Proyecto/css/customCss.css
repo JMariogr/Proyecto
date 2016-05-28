@@ -1,0 +1,115 @@
+/*!
+ * Start Bootstrap - Shop Item HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body{
+	font-family: 'Lobster', cursive;
+	background-color:#2196F3 !important;
+}
+
+#cuerpo{
+	border-radius: 60px !important;
+	background-color:white !important;
+}
+
+.opciones{
+	margin-top:20px;
+}
+
+
+.help-block{
+	color:white;
+}
+
+.redondo{
+	border-radius:40px;
+}
+
+#arriba{
+	background-color:black !important;
+}
+
+#banner-inicio{
+	width:100%;
+}
+
+#cabecera{
+	background-image:url("../img/banner2.jpg");
+}
+
+#cuadro-productos{
+	
+}
+
+.rc-anchor-alert{
+	display:none !important;
+}
+
+.g-recaptcha{
+	margin: 0 auto;
+    margin-left: 25px;
+    padding-bottom: 20px;
+}
+    
+
+
+.slide-image{
+	width:100%;
+}
+
+#producto{
+	padding-top:20px;
+}
+
+#barra-productos,#barra-productos2{
+	padding-top:30px;
+}
+
+
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.btn-primary{
+background-color: #398439 !important;
+}
+
+ /* The alert message box */
+.alerta {
+    padding: 20px;
+    background-color: #f44336 ; /* Red */
+    color: white;
+    margin-bottom: 15px;
+}
+
+/* The close button */
+.closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* When moving the mouse over the close button */
+.closebtn:hover {
+    color: black;
+}
